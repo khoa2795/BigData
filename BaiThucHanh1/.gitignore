@@ -1,0 +1,10 @@
+# Java/Hadoop build artifacts
+source_code/*.class
+source_code/*.jar
+
+# Hadoop local checksum artifacts
+output/*.crc
+
+# Editor/system
+.vscode/
+*.swp
