@@ -1,0 +1,10 @@
+# BaiThucHanh1 Java/Hadoop build artifacts
+BaiThucHanh1/source_code/*.class
+BaiThucHanh1/source_code/*.jar
+
+# Hadoop local checksum artifacts
+BaiThucHanh1/output/*.crc
+
+# Editor/system
+.vscode/
+*.swp
